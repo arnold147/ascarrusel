@@ -1,0 +1,7 @@
+i.mce-ico.mce-i-bs-grid {
+	font: 400 20px/1 dashicons;
+}
+i.mce-ico.mce-i-bs-grid:before {
+    content: "\f161";
+    color: #0073aa;
+}
